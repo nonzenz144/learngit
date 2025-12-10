@@ -5,4 +5,6 @@ changes and commit them, and you can discard any commits you make in this
 state without impacting any branches by switching back to a branch.
 
 If you want to create a new branch to retain commits you create, you may
-do so (now or later) by using -c with the switch command. Example:
+do so (now or later) by using -c with the switch command. Example:, 
+
+aaaa
